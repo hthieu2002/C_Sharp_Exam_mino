@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\bin\Debug\net7.0\Exam.exe
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\bin\Debug\net7.0\Exam.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\bin\Debug\net7.0\Exam.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\bin\Debug\net7.0\Exam.dll
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\bin\Debug\net7.0\Exam.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.dll
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\refint\Exam.dll
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\Exam.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\Exam_3\Exam\Exam\obj\Debug\net7.0\ref\Exam.dll

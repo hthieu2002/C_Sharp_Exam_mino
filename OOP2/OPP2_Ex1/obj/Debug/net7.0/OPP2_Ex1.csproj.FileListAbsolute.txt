@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\bin\Debug\net7.0\OPP2_Ex1.exe
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\bin\Debug\net7.0\OPP2_Ex1.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\bin\Debug\net7.0\OPP2_Ex1.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\bin\Debug\net7.0\OPP2_Ex1.dll
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\bin\Debug\net7.0\OPP2_Ex1.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.dll
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\refint\OPP2_Ex1.dll
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\OPP2_Ex1.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\OOP2\OPP2_Ex1\obj\Debug\net7.0\ref\OPP2_Ex1.dll

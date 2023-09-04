@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\bin\Debug\net7.0\OOP_Ex4.exe
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\bin\Debug\net7.0\OOP_Ex4.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\bin\Debug\net7.0\OOP_Ex4.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\bin\Debug\net7.0\OOP_Ex4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\bin\Debug\net7.0\OOP_Ex4.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\refint\OOP_Ex4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\OOP_Ex4.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\OOP\OOP_Ex4\obj\Debug\net7.0\ref\OOP_Ex4.dll
