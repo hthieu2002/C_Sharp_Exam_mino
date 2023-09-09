@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\bin\Debug\net7.0\Exam_4.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\bin\Debug\net7.0\Exam_4.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\bin\Debug\net7.0\Exam_4.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\bin\Debug\net7.0\Exam_4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\bin\Debug\net7.0\Exam_4.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\refint\Exam_4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\Exam_4.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam4\Exam_4\Exam_4\obj\Debug\net7.0\ref\Exam_4.dll
