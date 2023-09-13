@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\bin\Debug\net7.0\Exam5_3.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\bin\Debug\net7.0\Exam5_3.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\bin\Debug\net7.0\Exam5_3.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\bin\Debug\net7.0\Exam5_3.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\bin\Debug\net7.0\Exam5_3.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\refint\Exam5_3.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\Exam5_3.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Exam\Exam5_3\obj\Debug\net7.0\ref\Exam5_3.dll
