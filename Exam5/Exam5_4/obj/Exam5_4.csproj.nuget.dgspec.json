@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5_4\\Exam5_4.csproj": {}
+    "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5_4\\Exam5_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5_4\\Exam5_4.csproj": {
+    "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5_4\\Exam5_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5_4\\Exam5_4.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5_4\\Exam5_4.csproj",
         "projectName": "Exam5_4",
-        "projectPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5_4\\Exam5_4.csproj",
+        "projectPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5_4\\Exam5_4.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5_4\\obj\\",
+        "outputPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

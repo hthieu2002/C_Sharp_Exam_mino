@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5\\Exam5.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5\\Exam5.csproj",
       "projectName": "Exam5",
-      "projectPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5\\Exam5.csproj",
+      "projectPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5\\Exam5.csproj",
       "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam\\Exam5\\obj\\",
+      "outputPath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Exam5\\Exam5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
