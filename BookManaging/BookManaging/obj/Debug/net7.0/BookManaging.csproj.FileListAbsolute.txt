@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\bin\Debug\net7.0\BookManaging.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\bin\Debug\net7.0\BookManaging.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\bin\Debug\net7.0\BookManaging.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\bin\Debug\net7.0\BookManaging.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\bin\Debug\net7.0\BookManaging.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\refint\BookManaging.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\BookManaging.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\BookManaging\BookManaging\obj\Debug\net7.0\ref\BookManaging.dll
