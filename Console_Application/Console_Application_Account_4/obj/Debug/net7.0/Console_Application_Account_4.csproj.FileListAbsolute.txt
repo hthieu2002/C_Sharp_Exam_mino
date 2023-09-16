@@ -1,0 +1,17 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\bin\Debug\net7.0\Console_Application_Account_4.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\bin\Debug\net7.0\Console_Application_Account_4.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\bin\Debug\net7.0\Console_Application_Account_4.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\bin\Debug\net7.0\Console_Application_Account_4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\bin\Debug\net7.0\Console_Application_Account_4.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.csproj.CopyComplete
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\refint\Console_Application_Account_4.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\Console_Application_Account_4.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application_Account_4\obj\Debug\net7.0\ref\Console_Application_Account_4.dll

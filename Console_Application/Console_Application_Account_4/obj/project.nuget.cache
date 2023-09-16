@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "emRwGdJCRy9pfCnYk4453Kdp/D9dTblON78C9uM/2x+SBQWbp+jB2IX35RH5y/ZFvBeG0dLDWQh/4xB0tepENg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Desktop\\C#\\C_Sharp_Exam_mino\\Console_Application\\Console_Application_Account_4\\Console_Application_Account_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

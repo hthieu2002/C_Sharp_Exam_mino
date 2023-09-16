@@ -1,0 +1,14 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\bin\Debug\net7.0\Console_Application.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\bin\Debug\net7.0\Console_Application.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\bin\Debug\net7.0\Console_Application.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\bin\Debug\net7.0\Console_Application.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\bin\Debug\net7.0\Console_Application.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\refint\Console_Application.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\Console_Application.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\Console_Application\Console_Application\obj\Debug\net7.0\ref\Console_Application.dll
