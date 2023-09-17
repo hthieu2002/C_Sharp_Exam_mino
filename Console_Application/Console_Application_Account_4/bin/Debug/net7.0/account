@@ -1,0 +1,26 @@
+[
+  {
+    "AccountID": 1,
+    "FirstName": "Hieu",
+    "LastName": "Hoang",
+    "Balance": 917722112.0
+  },
+  {
+    "AccountID": 1,
+    "FirstName": "An",
+    "LastName": "Minh",
+    "Balance": 98187221.0
+  },
+  {
+    "AccountID": 2,
+    "FirstName": "Tuan",
+    "LastName": "Minh",
+    "Balance": 917826172.0
+  },
+  {
+    "AccountID": 3,
+    "FirstName": "Nhu",
+    "LastName": "Quynh",
+    "Balance": 889127.0
+  }
+]
