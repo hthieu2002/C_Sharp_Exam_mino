@@ -1,0 +1,16 @@
+D:\C#\lap3\ex1\bin\Debug\net6.0-windows\ex1.exe
+D:\C#\lap3\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+D:\C#\lap3\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+D:\C#\lap3\ex1\bin\Debug\net6.0-windows\ex1.dll
+D:\C#\lap3\ex1\bin\Debug\net6.0-windows\ex1.pdb
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.Form1.resources
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.csproj.GenerateResource.cache
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.cs
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.csproj.CoreCompileInputs.cache
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.dll
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\refint\ex1.dll
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.pdb
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
+D:\C#\lap3\ex1\obj\Debug\net6.0-windows\ref\ex1.dll

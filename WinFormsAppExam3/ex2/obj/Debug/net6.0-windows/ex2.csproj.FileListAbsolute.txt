@@ -1,0 +1,16 @@
+D:\C#\Lap3\Lap3\ex2\bin\Debug\net6.0-windows\ex2.exe
+D:\C#\Lap3\Lap3\ex2\bin\Debug\net6.0-windows\ex2.deps.json
+D:\C#\Lap3\Lap3\ex2\bin\Debug\net6.0-windows\ex2.runtimeconfig.json
+D:\C#\Lap3\Lap3\ex2\bin\Debug\net6.0-windows\ex2.dll
+D:\C#\Lap3\Lap3\ex2\bin\Debug\net6.0-windows\ex2.pdb
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.Form1.resources
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.csproj.GenerateResource.cache
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.AssemblyInfoInputs.cache
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.AssemblyInfo.cs
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.csproj.CoreCompileInputs.cache
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.dll
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\refint\ex2.dll
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.pdb
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ex2.genruntimeconfig.cache
+D:\C#\Lap3\Lap3\ex2\obj\Debug\net6.0-windows\ref\ex2.dll
