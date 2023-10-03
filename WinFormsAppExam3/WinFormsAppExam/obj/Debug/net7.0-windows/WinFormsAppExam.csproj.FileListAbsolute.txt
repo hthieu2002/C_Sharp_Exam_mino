@@ -1,0 +1,16 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\bin\Debug\net7.0-windows\WinFormsAppExam.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\bin\Debug\net7.0-windows\WinFormsAppExam.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\bin\Debug\net7.0-windows\WinFormsAppExam.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\bin\Debug\net7.0-windows\WinFormsAppExam.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\bin\Debug\net7.0-windows\WinFormsAppExam.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.Form1.resources
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\refint\WinFormsAppExam.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\WinFormsAppExam.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\WinFormsAppExam3\WinFormsAppExam\obj\Debug\net7.0-windows\ref\WinFormsAppExam.dll

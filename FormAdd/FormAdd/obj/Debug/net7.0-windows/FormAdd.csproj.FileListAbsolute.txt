@@ -1,0 +1,16 @@
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\bin\Debug\net7.0-windows\FormAdd.exe
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\bin\Debug\net7.0-windows\FormAdd.deps.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\bin\Debug\net7.0-windows\FormAdd.runtimeconfig.json
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\bin\Debug\net7.0-windows\FormAdd.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\bin\Debug\net7.0-windows\FormAdd.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.Form1.resources
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\refint\FormAdd.dll
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.pdb
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\FormAdd.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Desktop\C#\C_Sharp_Exam_mino\FormAdd\FormAdd\obj\Debug\net7.0-windows\ref\FormAdd.dll
