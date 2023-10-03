@@ -47,9 +47,9 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.Location = new Point(238, 23);
+            label1.Location = new Point(272, 31);
             label1.Name = "label1";
-            label1.Size = new Size(285, 32);
+            label1.Size = new Size(352, 41);
             label1.TabIndex = 0;
             label1.Text = "Thuc hien cac phep tinh";
             // 
@@ -57,9 +57,9 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.Location = new Point(151, 86);
+            label2.Location = new Point(173, 115);
             label2.Name = "label2";
-            label2.Size = new Size(105, 25);
+            label2.Size = new Size(134, 32);
             label2.TabIndex = 1;
             label2.Text = "Nhap so N";
             // 
@@ -67,9 +67,9 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label3.Location = new Point(150, 156);
+            label3.Location = new Point(171, 208);
             label3.Name = "label3";
-            label3.Size = new Size(108, 25);
+            label3.Size = new Size(138, 32);
             label3.TabIndex = 2;
             label3.Text = "Nhap so M";
             // 
@@ -77,39 +77,44 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label4.Location = new Point(159, 227);
+            label4.Location = new Point(182, 303);
             label4.Name = "label4";
-            label4.Size = new Size(80, 25);
+            label4.Size = new Size(102, 32);
             label4.TabIndex = 3;
             label4.Text = "Ket qua";
             // 
             // txtSoN
             // 
-            txtSoN.Location = new Point(270, 87);
+            txtSoN.Location = new Point(309, 116);
+            txtSoN.Margin = new Padding(3, 4, 3, 4);
             txtSoN.Name = "txtSoN";
-            txtSoN.Size = new Size(316, 23);
+            txtSoN.Size = new Size(361, 27);
             txtSoN.TabIndex = 4;
+            txtSoN.TextChanged += txtSoN_TextChanged;
             // 
             // txtKetqua
             // 
-            txtKetqua.Location = new Point(270, 228);
+            txtKetqua.Location = new Point(309, 304);
+            txtKetqua.Margin = new Padding(3, 4, 3, 4);
             txtKetqua.Name = "txtKetqua";
-            txtKetqua.Size = new Size(316, 23);
+            txtKetqua.Size = new Size(361, 27);
             txtKetqua.TabIndex = 5;
             // 
             // txtSoM
             // 
-            txtSoM.Location = new Point(270, 157);
+            txtSoM.Location = new Point(309, 209);
+            txtSoM.Margin = new Padding(3, 4, 3, 4);
             txtSoM.Name = "txtSoM";
-            txtSoM.Size = new Size(316, 23);
+            txtSoM.Size = new Size(361, 27);
             txtSoM.TabIndex = 6;
             // 
             // btnCong
             // 
             btnCong.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnCong.Location = new Point(135, 308);
+            btnCong.Location = new Point(154, 411);
+            btnCong.Margin = new Padding(3, 4, 3, 4);
             btnCong.Name = "btnCong";
-            btnCong.Size = new Size(60, 51);
+            btnCong.Size = new Size(69, 68);
             btnCong.TabIndex = 7;
             btnCong.Text = "+";
             btnCong.UseVisualStyleBackColor = true;
@@ -118,9 +123,10 @@
             // btnTru
             // 
             btnTru.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnTru.Location = new Point(215, 308);
+            btnTru.Location = new Point(246, 411);
+            btnTru.Margin = new Padding(3, 4, 3, 4);
             btnTru.Name = "btnTru";
-            btnTru.Size = new Size(60, 51);
+            btnTru.Size = new Size(69, 68);
             btnTru.TabIndex = 8;
             btnTru.Text = "-";
             btnTru.UseVisualStyleBackColor = true;
@@ -129,9 +135,10 @@
             // btnNhan
             // 
             btnNhan.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnNhan.Location = new Point(295, 308);
+            btnNhan.Location = new Point(337, 411);
+            btnNhan.Margin = new Padding(3, 4, 3, 4);
             btnNhan.Name = "btnNhan";
-            btnNhan.Size = new Size(60, 51);
+            btnNhan.Size = new Size(69, 68);
             btnNhan.TabIndex = 9;
             btnNhan.Text = "*";
             btnNhan.UseVisualStyleBackColor = true;
@@ -140,9 +147,10 @@
             // btnChia
             // 
             btnChia.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnChia.Location = new Point(376, 308);
+            btnChia.Location = new Point(430, 411);
+            btnChia.Margin = new Padding(3, 4, 3, 4);
             btnChia.Name = "btnChia";
-            btnChia.Size = new Size(60, 51);
+            btnChia.Size = new Size(69, 68);
             btnChia.TabIndex = 10;
             btnChia.Text = "/";
             btnChia.UseVisualStyleBackColor = true;
@@ -151,9 +159,10 @@
             // btnXoa
             // 
             btnXoa.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnXoa.Location = new Point(459, 308);
+            btnXoa.Location = new Point(525, 411);
+            btnXoa.Margin = new Padding(3, 4, 3, 4);
             btnXoa.Name = "btnXoa";
-            btnXoa.Size = new Size(60, 51);
+            btnXoa.Size = new Size(69, 68);
             btnXoa.TabIndex = 11;
             btnXoa.Text = "Xoa";
             btnXoa.UseVisualStyleBackColor = true;
@@ -162,9 +171,10 @@
             // btnThoat
             // 
             btnThoat.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            btnThoat.Location = new Point(549, 308);
+            btnThoat.Location = new Point(627, 411);
+            btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
-            btnThoat.Size = new Size(77, 51);
+            btnThoat.Size = new Size(88, 68);
             btnThoat.TabIndex = 12;
             btnThoat.Text = "Thoat";
             btnThoat.UseVisualStyleBackColor = true;
@@ -172,9 +182,9 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(btnThoat);
             Controls.Add(btnXoa);
             Controls.Add(btnChia);
@@ -188,6 +198,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;

@@ -63,5 +63,10 @@ namespace ex1
                 txtKetqua.Text = Tong.ToString();
             }
         }
+
+        private void txtSoN_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
